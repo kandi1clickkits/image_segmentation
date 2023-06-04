@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+numpy
+matplotlib
+torchmetrics
+opencv-python
+datasets # huggingface dataset
+git+https://github.com/facebookresearch/segment-anything.git
